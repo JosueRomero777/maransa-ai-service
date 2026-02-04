@@ -1,0 +1,25 @@
+# Microservicio IA - Maransa Price Prediction
+
+# FastAPI y servidor
+fastapi
+uvicorn
+python-multipart
+
+# Machine Learning y Data Science básico
+numpy
+pandas
+scikit-learn
+scipy
+joblib
+
+# Requests HTTP y APIs
+aiohttp
+requests
+python-dotenv
+
+# Validación y serialización
+pydantic
+
+# Utilidades
+python-dotenv
+python-dateutil

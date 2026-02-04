@@ -1,0 +1,90 @@
+{
+  "timestamp": "2026-02-04T15:39:17.041936",
+  "fecha": "2026-02-04",
+  "fuentes": {
+    "fao": {
+      "fish_price_index": 105.2,
+      "trend": "stable",
+      "mes_actual": 2,
+      "fuente": "FAO_Food_Price_Index",
+      "confiabilidad": "alta",
+      "url": "https://www.fao.org/documents/card/en/c/ca9995en"
+    },
+    "selina_wamucii": {
+      "precio_promedio_usd_lb": 3.377,
+      "cantidad_muestras": 2,
+      "fuente": "SelinaWamucii",
+      "url": "https://www.selinawamucii.com/insights/prices/ecuador/shrimps-prawns/"
+    },
+    "freezeocean": {
+      "31/35": {
+        "precio_promedio": 4.237,
+        "cantidad_fuentes": 3,
+        "fuente": "FreezeOcean"
+      },
+      "26/30": {
+        "precio_promedio": 5.07,
+        "cantidad_fuentes": 1,
+        "fuente": "FreezeOcean"
+      },
+      "36/40": {
+        "precio_promedio": 4.59,
+        "cantidad_fuentes": 1,
+        "fuente": "FreezeOcean"
+      },
+      "16/20": {
+        "precio_promedio": 5.92,
+        "cantidad_fuentes": 3,
+        "fuente": "FreezeOcean"
+      },
+      "41/50": {
+        "precio_promedio": 4.46,
+        "cantidad_fuentes": 1,
+        "fuente": "FreezeOcean"
+      },
+      "21/25": {
+        "precio_promedio": 5.37,
+        "cantidad_fuentes": 1,
+        "fuente": "FreezeOcean"
+      }
+    }
+  },
+  "status": "success",
+  "warnings": [
+    "alibaba_sin_datos",
+    "trading_economics_sin_datos",
+    "comtrade_sin_datos"
+  ],
+  "precios_consolidados": {
+    "16/20": {
+      "precio_publico_promedio": 5.92,
+      "cantidad_fuentes": 1,
+      "actualizado": "2026-02-04"
+    },
+    "21/25": {
+      "precio_publico_promedio": 5.37,
+      "cantidad_fuentes": 1,
+      "actualizado": "2026-02-04"
+    },
+    "26/30": {
+      "precio_publico_promedio": 5.07,
+      "cantidad_fuentes": 1,
+      "actualizado": "2026-02-04"
+    },
+    "31/35": {
+      "precio_publico_promedio": 4.237,
+      "cantidad_fuentes": 1,
+      "actualizado": "2026-02-04"
+    },
+    "36/40": {
+      "precio_publico_promedio": 4.59,
+      "cantidad_fuentes": 1,
+      "actualizado": "2026-02-04"
+    },
+    "41/50": {
+      "precio_publico_promedio": 4.46,
+      "cantidad_fuentes": 1,
+      "actualizado": "2026-02-04"
+    }
+  }
+}
