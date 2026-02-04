@@ -17,6 +17,10 @@ aiohttp
 requests
 python-dotenv
 
+# Web Scraping
+beautifulsoup4
+lxml
+
 # Validación y serialización
 pydantic
 
